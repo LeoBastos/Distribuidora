@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distribuidora", "Distribuidora\Distribuidora.csproj", "{62B71CE4-48C9-4A3C-99B6-2B3899DCF8AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62B71CE4-48C9-4A3C-99B6-2B3899DCF8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B71CE4-48C9-4A3C-99B6-2B3899DCF8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B71CE4-48C9-4A3C-99B6-2B3899DCF8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B71CE4-48C9-4A3C-99B6-2B3899DCF8AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4C8FF5A-8F40-4649-ADB7-A6736DFA28CF}
+	EndGlobalSection
+EndGlobal
